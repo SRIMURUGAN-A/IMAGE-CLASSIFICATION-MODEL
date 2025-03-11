@@ -34,3 +34,6 @@ The validation set (X_test, y_test) is used to monitor performance during traini
 6. Evaluating the Model:
 The test accuracy is printed after training.
 A training history plot shows how the accuracy changes over epochs for both training and validation datasets.
+
+
+OUTPUT : ![Image](https://github.com/user-attachments/assets/1a5814ca-6c98-4807-b897-4cbccda59ffc)
